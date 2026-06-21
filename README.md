@@ -54,7 +54,7 @@ sales-analytics-dashboard
 
 ├── Dashboard
 
-├── Images
+├── Result
 
 └── README.md
 
